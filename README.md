@@ -1,1 +1,1 @@
-syncfusion app and responsive navigation.
+syncfusion data listing grid app and responsive navigation.
